@@ -1,4 +1,4 @@
-# time map
+# <a href="https://digitalkoine.github.io/translations_timemap_storymap/">Time Map</a>
 
 The Time Map shows 678 acts of translation of Jane Eyre, into 68 languages, as they succeed each other through time. By an ‘act of translation’ we mean either the first publication of a translation or its re-publication in a new place. Each point representing an act of translation appears in its year of first publication and lasts for five ticks, or years. This is to enable you to see it easily, and also to register the fact that the life of a translation continues beyond the year of its publication.  
 
